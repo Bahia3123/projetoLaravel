@@ -1,7 +1,5 @@
 
 
-
-
 @foreach ($users as $user)
   <div>
     {{$user->name}} 
